@@ -18,11 +18,12 @@ https://www.docker.com/get-started
  
   ![](https://user-images.githubusercontent.com/107705027/174447896-8ae84c55-ff38-4e1e-b891-1b8d8fcbf6c6.jpeg)   
 * run docker-compose up in cmd so it will pull all the information, download the Apache server, build the image, and run the container.
- 
-![docker-compose-up](https://user-images.githubusercontent.com/107705027/174448169-3e24c646-b626-4005-8055-e47ef9ce75fd.png)
+![Screenshot (27)](https://user-images.githubusercontent.com/107705027/174451721-c8a8a9e7-0612-45ad-bd84-6a3a7d1bddc4.png)
+
 * open the Docker and see if it is running          
-                           
-![docker-engine-container-running](https://user-images.githubusercontent.com/107705027/174448245-739e22f0-517a-4b93-a294-23dadc01e081.png)
+ 
+ ![Screenshot (25)](https://user-images.githubusercontent.com/107705027/174451756-af5d92f0-bb33-4f25-bc93-f6a35e7af955.png)
+
 * ensure the container is set to execute the PHP scripts by open your local host post -  http://localhost:8000/.
  
 ![apache-server-running](https://user-images.githubusercontent.com/107705027/174448291-aa4312f1-58b7-436c-b339-d06c8d35dbe7.png)
